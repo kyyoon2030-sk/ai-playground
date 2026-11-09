@@ -1,0 +1,18 @@
+{
+  "name": "CanDo AI | 원클릭으로 이게 된다고?",
+  "short_name": "CanDo AI",
+  "description": "Discover useful tools and try them right away.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#151c32",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
